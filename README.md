@@ -21,8 +21,11 @@ y.wu@duke.edu <br>
 Office hours: TBD
 
 
+
 **Syllabus** <br>
 
 Please check the syllabus and more information at our class website: <br>
 env797.github.io
+
+Student name: Haochong Xia
 
