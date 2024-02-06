@@ -41,7 +41,9 @@ vignettes/*.pdf
 # Rproject files
 *.Rproj
 *_KEY.Rmd
+*_FIXED.Rmd
 *_TOPOST/
+*_TODELETE.Rmd
 
 #Mac files
 .DS_Store
